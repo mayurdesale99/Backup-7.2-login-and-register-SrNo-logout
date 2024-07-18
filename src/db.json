@@ -1,0 +1,43 @@
+{
+  "users": [
+    {
+      "id": "520c",
+      "name": "Mayur Desale",
+      "email": "mayur@gmail.com",
+      "address": "Nashik",
+      "phone": "9921790350",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": "524f",
+      "name": "sachin sule",
+      "email": "sachin@gmail.com",
+      "address": "Mumbai",
+      "phone": "9877878899"
+    },
+    {
+      "id": "d85b",
+      "name": "ketan",
+      "email": "ketan@gmail.com",
+      "address": "Nashik",
+      "phone": "9988998899",
+      "password": "123456",
+      "confirmPassword": "123456"
+    },
+    {
+      "id": "07ef",
+      "name": "sachin sule",
+      "email": "sachin@gmail.com",
+      "address": "Mumbai",
+      "phone": "9877878899"
+    },
+    {
+      "id": "fa52",
+      "name": "ketan",
+      "email": "ketan@gmail.com",
+      "address": "Nashik",
+      "phone": "0988998899"
+    }
+  ]
+}

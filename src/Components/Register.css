@@ -1,0 +1,63 @@
+.registration-section {
+    background-color: #f8f9fa;
+    padding: 80px 0;
+  }
+  
+  .registration-form {
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .registration-form h2 {
+    font-weight: bold;
+    color: #343a40;
+  }
+  
+  .registration-form label {
+    font-weight: bold;
+    color: #495057;
+  }
+  
+  .registration-form input[type="text"],
+  .registration-form input[type="email"],
+  .registration-form input[type="tel"],
+  .registration-form input[type="password"],
+  .registration-form input[type="checkbox"] {
+    width: 100%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  .registration-form input[type="checkbox"] {
+    margin-top: 10px;
+  }
+  
+  .registration-form button[type="submit"] {
+    width: 100%;
+    padding: 12px;
+    font-size: 18px;
+    border: none;
+    border-radius: 5px;
+    background-color: #007bff;
+    color: #ffffff;
+    cursor: pointer;
+  }
+  
+  .registration-form button[type="submit"]:hover {
+    background-color: #0056b3;
+  }
+  
+  .registration-form .form-check-label a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .registration-form .form-check-label a:hover {
+    text-decoration: underline;
+  }
+  
